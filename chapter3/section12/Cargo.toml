@@ -1,0 +1,11 @@
+[package]
+name = "px86"
+version = "1.0.0"
+authors = ["Kenta11 <kenta@unknown>"]
+edition = "2021"
+
+[dependencies]
+variant_count = "1.1"
+strum = "0.22"
+strum_macros = "0.22"
+clap = "2.33.3"

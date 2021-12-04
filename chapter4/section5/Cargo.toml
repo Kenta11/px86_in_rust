@@ -1,0 +1,9 @@
+[package]
+name = "boots"
+version = "1.0.0"
+authors = ["Kenta11 <kenta@unknown>"]
+edition = "2021"
+
+[dependencies]
+byteorder = "1.4.3"
+clap = "2.33.3"
